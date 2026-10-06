@@ -1,0 +1,3 @@
+/mnt/c/Users/dekel/CLionProjects/Hw3/cmake-build-wsl-profile/CMakeFiles/Hw3.dir
+/mnt/c/Users/dekel/CLionProjects/Hw3/cmake-build-wsl-profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dekel/CLionProjects/Hw3/cmake-build-wsl-profile/CMakeFiles/rebuild_cache.dir

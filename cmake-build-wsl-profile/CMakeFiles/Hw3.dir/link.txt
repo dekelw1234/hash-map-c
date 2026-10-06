@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Hw3.dir/LinkedList.c.o CMakeFiles/Hw3.dir/KeyValuePair.c.o CMakeFiles/Hw3.dir/HashTable.c.o CMakeFiles/Hw3.dir/Jerry.c.o CMakeFiles/Hw3.dir/MultiValueHashTable.c.o CMakeFiles/Hw3.dir/JerryBoreeMain.c.o -o Hw3 

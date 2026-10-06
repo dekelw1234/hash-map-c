@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /mnt/c/Users/dekel/CLionProjects/Hw3 -B /mnt/c/Users/dekel/CLionProjects/Hw3/cmake-build-wsl-profile
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/dekel/CLionProjects/Hw3/cmake-build-wsl-profile

@@ -1,0 +1,9 @@
+# Build output
+*.o
+JerryBoree
+dekelisking
+bin/
+cmake-build-*/
+
+# IDE
+.idea/
